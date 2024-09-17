@@ -1,1 +1,4 @@
 /target
+terminal
+cargo.toml
+cargo.lock
