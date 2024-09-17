@@ -1,8 +1,11 @@
 //mod helloworld;
-mod types;
+//mod strings;
+mod tuples;
 
 
 fn main() {
     //var::var();
-    types::typ();
+    //types::typ();
+    //strings::str();
+    tuples::tup();
 }
