@@ -1,4 +1,4 @@
 /target
 terminal
-cargo.toml
-cargo.lock
+Cargo.toml
+Cargo.lock
